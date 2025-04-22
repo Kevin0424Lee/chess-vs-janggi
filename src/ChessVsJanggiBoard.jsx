@@ -197,4 +197,3 @@ function renderPiece(piece) {
   };
   return symbols[piece.team][piece.type] || '?';
 }
-EOF
